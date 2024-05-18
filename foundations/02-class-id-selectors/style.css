@@ -1,0 +1,16 @@
+.candy{
+    background-color: hsl(345, 52%, 74%);
+    font-family: Verdana, 'DejaVu Sans', Tahoma, sans-serif;
+}
+
+#link{
+    color: #0000EE;
+    font-size: 36px;
+}
+#highlighter{
+    background-color: rgb(121, 238, 121);
+    font-weight: bold;
+}
+.big{
+    font-size: 24px;
+}
